@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 os.system('cls')
 
-diretorio = 'C:/Users/Beffa/Documents/Python/webScraping/Steam/'
+diretorio = 'Diretorio de salvamento e leitura do arquivo.csv'
 
 headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
 url_case = 'https://csgostash.com/containers/skin-cases'
